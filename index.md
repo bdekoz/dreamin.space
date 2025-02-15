@@ -1,3 +1,1 @@
-<meta http-equiv="refresh" content="5; url =https://benjamin.dekosnik.com" />
-
-# svg pages
+<meta http-equiv="refresh" content="1; url=pages/01.md" />
